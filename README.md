@@ -19,7 +19,7 @@
 	</ul>
 	</br>
 	<h3>Execució</h3>
-	<p>cal instal·lar la llibreria <strong>freeglut3-dev</strong> </p>
+	<p>cal instal·lar la llibreria <strong>freeglut3</strong>  ```#apt-get install freeglut3-dev```</p>
 	<p>per a compilar ```make``` en el directori</p>
 	<p>per a executar ```./main porsche.obj```</p>
 </body>
