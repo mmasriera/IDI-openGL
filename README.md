@@ -20,12 +20,7 @@
 	</br>
 	<h3>Execució</h3>
 	<p>cal instal·lar la llibreria <strong>freeglut3-dev</strong> </p>
-	<p>per a compilar <strong>$make</strong> en el directori
-		```make```
-	</p>
-	<p>per a executar <strong>$./main porsche.obj</strong>
-		```./main porsche.obj```
-	</p>
-	<img src="photo1">
+	<p>per a compilar ```make``` en el directori</p>
+	<p>per a executar ```./main porsche.obj```</p>
 </body>
 </html>
