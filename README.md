@@ -22,6 +22,6 @@
 	<p>cal instal·lar la llibreria <strong>freeglut3-dev</strong> </p>
 	<p>per a compilar <strong>$make</strong> en el directori</p>
 	<p>per a executar <strong>$./main porsche.obj</strong> </p>
-	<img src="./photo1">
+	<img src="photo1">
 </body>
 </html>
