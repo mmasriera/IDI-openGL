@@ -22,5 +22,7 @@
 	<p>cal instal·lar la llibreria <strong>freeglut3</strong>  ```#apt-get install freeglut3-dev```</p>
 	<p>per a compilar ```make``` en el directori</p>
 	<p>per a executar ```./main porsche.obj```</p>
+	<p>foto : </p>
+	![alt text](https://www.dropbox.com/s/9xxlpwmmwrae9h4/photo1.png "photo1")
 </body>
 </html>
