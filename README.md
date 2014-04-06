@@ -9,7 +9,7 @@
 	</p>
 	<h4>Contingut : </h4>
 	<ul>
-		<li> carpeta src
+		<li> carpeta src :
 			<ul>
 				<li>Makefile</li>
 				<li>codi font del programa, i tot el que cal per a carregar models</li>
@@ -18,9 +18,10 @@
 		<li>LaboBlock4Alumnes2013-2014.pdf : enunciat de la pràctica</li>
 	</ul>
 	</br>
-	<h3>EXECUCIÓ</h3>
+	<h3>Execució</h3>
 	<p>cal instal·lar la llibreria <strong>freeglut3-dev</strong> </p>
 	<p>per a compilar <strong>$make</strong> en el directori</p>
 	<p>per a executar <strong>$./main porsche.obj</strong> </p>
+	<img src="./photo1">
 </body>
 </html>
