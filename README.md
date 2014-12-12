@@ -5,7 +5,9 @@
 	<h3>Interacció i Disseny d'Interfícies</h3>
 	<p>
 		Codi de la pràctica 4 d'openGL
-		compilat i executat en <em>Ubuntu13.04</em>
+	</p>
+	<p>
+		S.O. utiltzat: Ubuntu13.04 64bits
 	</p>
 	<h4>Contingut : </h4>
 	<ul>
